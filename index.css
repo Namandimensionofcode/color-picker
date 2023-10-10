@@ -1,0 +1,17 @@
+.color-picker-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#colorPicker {
+  width: 200px;
+  height: 100px;
+}
+
+#colorDisplay {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+}
